@@ -1,4 +1,4 @@
-# Hi there, I'm Nkiasii! 👋
+# Hi there, I'm Nkiasii! 👋 “I am a learner of the ALX Back-End Web Development Program and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search. This is why I started with software engineering, what I am passionate about and what inspires me:I'm inspired by the power of technology to solve real-world problems and make a meaningful impact on people's lives. My aim is to become a world-class developer who not only builds scalable and impactful solutions but also contributes to the growth of future engineers through mentorship and collaboration and that’s why I would like to work on Web Development Projects, Backend Systems and Data-Driven Applications.Please prepare a template I can use, which revamps all the sections of the GitHub profile. Enrich this template with HTML markups and compelling format and make it professional. After finishing, please ask me how you can help me making this template more personalized.
 
 ![Banner Image](your_banner_image_url_here)
 
